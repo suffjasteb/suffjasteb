@@ -1,6 +1,6 @@
 
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to create and contribute to open-source projects. Here's a bit more about me:
+Welcome to my GitHub profile! I'm a passionate developer who loves to create and contribute to open-source projects.
 
 
 ## 🔗 Connect with Me
